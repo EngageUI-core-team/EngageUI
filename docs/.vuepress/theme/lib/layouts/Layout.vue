@@ -12,3 +12,6 @@ body {
   margin: 0;
 }
 </style>
+<style lang="less" rel="stylesheet/css" scoped>
+@import '../styles/common.less';
+</style>
