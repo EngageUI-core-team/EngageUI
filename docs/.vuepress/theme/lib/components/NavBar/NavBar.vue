@@ -9,6 +9,6 @@
 .navBox {
   width: 100%;
   height: 60px;
-  background-color: #AD8B73;
+  background-color: #000000;
 }
 </style>
