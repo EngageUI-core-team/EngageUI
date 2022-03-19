@@ -8,7 +8,7 @@
         <Content />
       </div>
       <div class="iframeBox">
-        <iframe class="iframe" src="https://www.baidu.com" frameborder="0"></iframe>
+        <iframe class="iframeContent" src="https://www.baidu.com" frameborder="0"></iframe>
       </div>
     </div>
   </div>
@@ -22,7 +22,10 @@ body {
   margin: 0;
 }
 </style>
-<style lang="less" rel="stylesheet/css" scoped>
-@import '../styles/common.less';
+<style lang="less" scoped>
+@import '../styles/index.less';
 @import './Layout.less';
+</style>
+<style lang="css">
+@import url('../styles/notion-light-classic');
 </style>
