@@ -1,11 +1,7 @@
 {
-    "name": "engage-ui-theme",
-    "version": "1.0.0",
-    "keywords": [
-        "vuepress-theme"
-    ],
-    "main": "lib/index.js",
-    "files": [
-        "lib"
-    ]
+  "name": "engageui-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "brandon",
+  "license": "MIT"
 }
